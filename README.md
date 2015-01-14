@@ -1,0 +1,1 @@
+A part of the Udacity Front-End Web Developer Nanodegree, I replicated a design in HTML and CSS from a PDF mockup. The project goal was to develope a responsive website that displays images, descriptions and links to each of the portfolio projects I will complete throughout the rest of the course.
