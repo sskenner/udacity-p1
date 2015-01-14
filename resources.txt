@@ -1,0 +1,17 @@
+http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+http://www.w3schools.com/cssref/css_selectors.asp
+http://www.w3schools.com/cssref/pr_font_font-family.asp
+http://www.w3schools.com/cssref/pr_font_font.asp
+http://www.w3schools.com/cssref/pr_border.asp
+http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+http://www.w3schools.com/cssref/pr_text_word-spacing.asp
+
+http://getbootstrap.com/2.3.2/base-css.html#typography
+
+http://www.w3.org/TR/css3-values/#font-relative-lengths
+
+http://css-tricks.com/almanac/properties/l/letter-spacing/
+
+http://rogerdudler.github.io/git-guide/
+
+http://udacity.github.io/frontend-nanodegree-styleguide/
